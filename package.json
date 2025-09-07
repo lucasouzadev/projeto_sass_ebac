@@ -1,0 +1,17 @@
+{
+  "name": "exercicio",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "author": "Seu Nome",
+  "description": "Projeto simples HTML/CSS convertido para SASS",
+  "license": "MIT",
+  "main": "index.js",
+  "packages": {},
+  "devDependencies": {
+    "sass": "^1.69.0"
+  },
+  "scripts": {
+    "sass": "sass --watch styles.scss:styles.css"
+  }
+}
